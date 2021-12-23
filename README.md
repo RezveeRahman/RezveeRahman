@@ -5,5 +5,10 @@ I'm just learning and uploading stuff here
 
 Stuff to be posted:
 1) Data Structures and Algorithms with Python (My revised version)
+
 2) SQL stuff
 (Yes I know this is a short list but I will further expand on this later.)
+
+--Update 12/23/2021
+>>New data base study using postgreSQL 
+>>Python API with postgreSQL comming soon
