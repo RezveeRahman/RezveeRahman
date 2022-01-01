@@ -9,6 +9,5 @@ Stuff to be posted:
 2) SQL stuff
 (Yes I know this is a short list but I will further expand on this later.)
 
---Update 12/23/2021
->>New data base study using postgreSQL 
->>Python API with postgreSQL comming soon
+--Update 1/1/2022
+--Happy 2022, Stay Strong folks
