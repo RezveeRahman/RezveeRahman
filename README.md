@@ -1,5 +1,5 @@
 # Rezvee Rahman (or you can call me Rez)
-## Introductions
+### Introduction
 Just a regular person. I'll summarize my life below
 > Wake up\
 > Eat some food\
@@ -9,13 +9,32 @@ Just a regular person. I'll summarize my life below
 > Drive a car\
 > Go to work\
 > ~~Go to school~~ Teach my self how to do shit\
-> Go to bed 
+> Go to bed\
 
-### Interests???
+![Spongebob generic fish life](resources/gif/spongebob-gif-fish.gif)
+
+## Projects I have completed or currently working on
+
+### In Progress
+ - Java Threads: Understanding threading, concurrency, parallelism
+
+ - C Programming and DSA: Learning how to do C programming properly
+
+ - Shell Scriptus: Some bash practicing
+
+### Completed
+- ### SCSU Project 2024 "Pens & Pals"
+![JavaScript](resources/Icons/JS64x64.png)![NodeJs](resources/Icons/NodeJS64x64.png) ![Express](resources/Icons/expressJs64x64.png)
+
+
+### Defunct
+
+## Interests???
 
 #### Music
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0EIwWmKQxBAntOVegmZs8B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 #### Video games
+- Metal Gear Solid V - Both Ground Zeroes and The Phantom Pain
+- Elden Ring (Super Hard)
 
 #### favorite instrument
