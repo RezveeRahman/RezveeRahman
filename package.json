@@ -1,0 +1,27 @@
+{
+  "name": "rezveerahman",
+  "version": "1.0.0",
+  "description": "This is just a website package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezveeRahman/RezveeRahman.git"
+  },
+  "author": "Rezvee Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezveeRahman/RezveeRahman/issues"
+  },
+  "homepage": "https://github.com/RezveeRahman/RezveeRahman#readme",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.24",
+    "@vuepress/theme-default": "^2.0.0-rc.112",
+    "sass-embedded": "^1.89.2",
+    "vuepress": "^2.0.0-rc.24"
+  }
+}

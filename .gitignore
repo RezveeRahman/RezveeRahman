@@ -1,0 +1,6 @@
+node_modules/
+
+# VuePress related ignores
+.vuepress/.temp
+.vuepress/.cache
+.vuepress/dist
